@@ -465,4 +465,38 @@
 1. **Zugriffsrechte**  
    Refer to slide
 
-1.
+## **Pruefungsfrage WS23/24**
+
+1. **DB Theory**
+
+   - Vorteil / Nachteil
+   - Umwandlung ER-Modell
+     - 1:N
+     - M:N:1
+   - Isolationslevel
+
+1. **ORM Aufbau, Erklaerung Komponenten**
+
+1. **Joins (4 marks)**
+
+   - 2 Table, join and fill in output
+   - Natural join
+
+1. **Modellierung (15 marks)**
+
+   - With requirements, draw diagram
+     - Personal, Flughafen, Flugtypen...usw.
+   - Entitaetstypen, Schwach / Starke Entitaet
+
+1. **SQL (32 marks)**
+
+   - Refer Bahn.ipynb
+
+1. **Performance**
+
+   - Sequel?
+   - Indices, Implementation
+
+1. **B+ Baum**
+
+B+ Baum + Performance > ~20 marks
