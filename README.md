@@ -16,7 +16,7 @@ This is the repository for the database course materials under the [B.Sc. Künst
 
 | Task                                                                                                      | Done |
 | --------------------------------------------------------------------------------------------------------- | ---- |
-| [zusammenfassung.md](./zusammenfassung-ss24/zusammenfassung.md)                                           | ✅   |
+| [zusammenfassung.md](./zusammenfassung-ss24/zusammenfassung.md)                                           |      |
 | [01_SQL_DDL.ipynb](./exercises-ss24/01_SQL_DDL.ipynb)                                                     | ✅   |
 | [Aufgabe_Getränke.ipynb](./exercises-ss24/Aufgabe_Getränke.ipynb)                                         |      |
 | [Aufgabe_Hochschulnotebook.ipynb](./zusammenfassung-ss24/Aufgabe_Hochschulnotebook.ipynb)                 |      |
