@@ -465,6 +465,16 @@
 1. **Zugriffsrechte**  
    Refer to slide
 
+1. **SQL Query Order of Execution**
+
+   1. FROM
+   1. WHERE
+   1. GROUP BY
+   1. HAVING
+   1. SELECT
+   1. ORDER BY
+   1. LIMIT
+
 ## **Pruefungsfrage WS23/24**
 
 1. **DB Theory**
@@ -500,3 +510,9 @@
 1. **B+ Baum**
 
 B+ Baum + Performance > ~20 marks
+
+## **Zusammenfassung SS24**
+
+1. **Refer Uebung 05 - Implementierung**
+
+   - So is either specifications are given, and you draw the ER diagram
