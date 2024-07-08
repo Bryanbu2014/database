@@ -4,12 +4,12 @@ This is the repository for the database course materials under the [B.Sc. Künst
 
 ## Notable Folder / File Description
 
-1. [exercise-ss24](./exercise-ss24/): This folder contains database exercises in summer semester 2024.
-1. [answers-ss24](./answers-ss24/): This folder contains the answers for the exercises in [exercise-ss24](./exercise-ss24/).
-1. [exercise-ws2324 ❌](./exercises-ws2324/): This folder contains database exercises in winter semester 2023, but is however deprecated.
-1. [answers-ws2324 ❌](./answers-ws2324/): This folder contains the answers for the exercises in [exercise-ws2324](./exercises-ws2324/). Similar to the exercise folder, this is also deprecated.
+1. [exercises-ss24](./exercises-ss24/): This folder contains database exercises in summer semester 2024.
+1. [answers-ss24](./answers-ss24/): This folder contains the answers for the exercises in [exercises-ss24](./exercises-ss24/).
+1. [exercises-ws2324 ❌](./exercises-ws2324/): This folder contains database exercises in winter semester 2023, but is however deprecated.
+1. [answers-ws2324 ❌](./answers-ws2324/): This folder contains the answers for the exercises in [exercises-ws2324](./exercises-ws2324/). Similar to the exercise folder, this is also deprecated.
 1. [zusammenfassung-ss24](./zusammenfassung-ss24/): Important summary from the lecture in summer semester 2024.
-1. [datenbanken.md](datenbanken.md): Notes made in last winter semester 2023.
+1. [datenbanken.md](datenbanken.md): Notes made during last winter semester 2023.
 1. [resources](./resources/): Resources needed for [datenbanken.md](datenbanken.md).
 
 ## To-Do-List
