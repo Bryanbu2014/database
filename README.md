@@ -19,9 +19,9 @@ This is the repository for the database course materials under the [B.Sc. Künst
 | [zusammenfassung.md](./zusammenfassung-ss24/zusammenfassung.md)                                           |      |
 | [01_SQL_DDL.ipynb](./exercises-ss24/01_SQL_DDL.ipynb)                                                     | ✅   |
 | [Aufgabe_Getränke.ipynb](./exercises-ss24/Aufgabe_Getränke.ipynb)                                         | ✅   |
-| [Aufgabe_Hochschulnotebook.ipynb](./zusammenfassung-ss24/Aufgabe_Hochschulnotebook.ipynb)                 |      |
+| [Aufgabe_Hochschulnotebook.ipynb](./zusammenfassung-ss24/Aufgabe_Hochschulnotebook.ipynb)                 | ✅   |
 | [Aufgabe_Joins.ipynb](./exercises-ss24/Aufgabe_Joins.ipynb)                                               | ✅   |
 | [Aufgabe_NSA.ipynb](./exercises-ss24/Aufgabe_NSA.ipynb)                                                   |      |
 | [Aufgabe_Rekursive_Semesterauflistung.ipynb](./exercises-ss24/Aufgabe_Rekursive_Semesterauflistung.ipynb) |      |
 | [Aufgabe_zugauskunft-dbimport.ipynb](./exercises-ss24/Aufgabe_zugauskunft-dbimport.ipynb)                 |      |
-| [Aufgabe_zugauskunft.ipynb](./exercises-ss24/Aufgabe_zugauskunft.ipynb)                                   |      |
+| [Aufgabe_zugauskunft.ipynb](./exercises-ss24/Aufgabe_zugauskunft.ipynb)                                   | ✅   |
